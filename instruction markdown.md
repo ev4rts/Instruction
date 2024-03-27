@@ -2,6 +2,9 @@
 
 ## Highlight text
 
+Для курсива (*)
+
+Для полужирного (**)
 ## Lists
 
 ## Work with images
@@ -12,4 +15,4 @@
 
 ## Quotes
 
-## Conclusionss
+## Conclusions
